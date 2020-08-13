@@ -1,4 +1,4 @@
-# swatch
+# Made purple
 
 ## Project setup
 ```
